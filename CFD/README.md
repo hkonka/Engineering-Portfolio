@@ -1,5 +1,5 @@
 # CFD – Computational fluid dynamics
 
-This folder contains my CFD projects.
+This folder showcases my CFD projects involving external and internal aerodynamics, turbulence modelling, numerical simulations and flow visualisation.
 
-Software: Openfoam and Ansys
+**Software:** ANSYS Fluent and OpenFOAM.
